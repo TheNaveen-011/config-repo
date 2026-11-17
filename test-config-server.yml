@@ -1,1 +1,3 @@
-
+server:
+  port: 9091
+msg: Hi, Hello
